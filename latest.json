@@ -1,11 +1,11 @@
 {
   "payload": {
     "schema": 1,
-    "version": "0.5.9",
+    "version": "0.5.10",
     "engine": "44.7.2",
-    "sha256": "82ce54665b78f6587dc88f5496a865c157fd910b40203afe3ac456e4514a4333",
-    "bytes": 1058145,
-    "publishedAt": "2026-10-20T16:32:04.470Z"
+    "sha256": "becff9ee3e2509eee2c2a5f73ad8aab11e23417216972ec1e01dd593a278da15",
+    "bytes": 1058432,
+    "publishedAt": "2026-10-20T17:00:19.832Z"
   },
-  "signature": "jrNw77GKnsTOgDXGhvgnY76kbIUqTuFkYYW2PVI4ttQrxoTMesQu7Jshqh4VdoPrLLkuNoUM1i52rhYpGuHSCQ=="
+  "signature": "9zGyIFbIV1vvO+UjQbENZOEnskMCfOtkhpD09wU6BsJiM/csmzDr8u0Ijp6+XxxVQCZS6d7p7a0J4s2pdpbBBw=="
 }
