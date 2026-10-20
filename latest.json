@@ -1,0 +1,11 @@
+{
+  "payload": {
+    "schema": 1,
+    "version": "0.5.8",
+    "engine": "44.7.2",
+    "sha256": "0b49dbbc27138b1800713666507217eba1cd8e687c18736fb657b126b1589853",
+    "bytes": 1058113,
+    "publishedAt": "2026-10-20T16:25:20.982Z"
+  },
+  "signature": "5pOdRh9q3Er5oXphuSWmRRIp7cNwCAaUUGuId9x0ShZJz5Xj/p3CWm/kavsd/tzOm0ywHhvtjEdvZG19coo0BA=="
+}
