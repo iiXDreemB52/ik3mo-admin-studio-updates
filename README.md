@@ -6,7 +6,7 @@ This is a **distribution-only** repository. The original iK3MO application sourc
 
 If the installed app has no **فحص التحديثات** button, install the bootstrap **once**:
 
-1. Download [iK3MO Admin Studio 0.5.9 bootstrap](https://raw.githubusercontent.com/iiXDreemB52/ik3mo-admin-studio-updates/main/bootstrap/0.5.9.zip).
+1. Download [iK3MO Admin Studio 0.5.10 bootstrap](https://raw.githubusercontent.com/iiXDreemB52/ik3mo-admin-studio-updates/main/bootstrap/0.5.10.zip).
 2. Close the program completely and extract the ZIP.
 3. Run `APPLY-UPDATE.cmd`; this patches the same installed application, without uninstalling or clearing user data.
 4. Reopen the application using the original shortcut.
